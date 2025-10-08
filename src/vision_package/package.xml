@@ -13,6 +13,9 @@
   <depend>cv_bridge</depend>
   <depend>image_transport</depend>
 
+  <build_depend>opencv4</build_depend>
+  <exec_depend>opencv4</exec_depend>
+
   <test_depend>ament_lint_auto</test_depend>
   <test_depend>ament_lint_common</test_depend>
 
